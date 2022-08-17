@@ -3,3 +3,8 @@
     padding: 0;
     font-family: Arial, Helvetica, sans-serif;
 }
+
+div#container h1 {
+    color: blue;
+    text-align: center;
+}

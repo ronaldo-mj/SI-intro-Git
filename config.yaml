@@ -1,5 +1,8 @@
-database
-user:andreia
+database:
+user:ronaldo
 password:123
 server
 port:8080
+host: "localhost"
+e-mail: ronaldo__mj@hotmail.com 
+user passawird: 123456
